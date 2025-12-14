@@ -1,0 +1,30 @@
+# Core Dependencies
+boto3==1.34.0
+azure-monitor-query==1.3.0
+azure-identity==1.15.0
+
+# Machine Learning
+scikit-learn==1.3.2
+numpy==1.24.3
+pandas==2.1.4
+joblib==1.3.2
+
+# Web Framework & Dashboard
+flask==3.0.0
+flask-cors==4.0.0
+flask-socketio==5.3.5
+python-socketio==5.10.0
+
+# Visualization
+plotly==5.18.0
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+pytz==2023.3
+colorama==0.4.6
+
+# Logging & Monitoring
+loguru==0.7.2
